@@ -35,7 +35,7 @@ lo siguiente:
 
 A continuacion muestro _diagrama de flujo_ propuesto para aplicacion:
 
-![Diagrama de flujo]()
+![Diagrama de flujo](./images/My%20first%20board.jpg)
 
 ## **1.1. Buyer Persona**
 
@@ -43,7 +43,8 @@ Se define el cliente ideal, el cual es representado por el abogado administrador
 
 Para llevar a cabo esta practica, se usode apoyo la herramienta de buyer en https://www.hubspot.es/make-my-persona con los requerimientos del Abogabot 
 
-![Buyer Persona]()
+![Buyer Persona](./images/Abogado%20Administrador_P%C3%A1gina_1.jpg)
+![Buyer Persona](./images/Abogado%20Administrador_P%C3%A1gina_2.jpg)
 
 ## **2. Publico Objetivo**
 
@@ -51,7 +52,7 @@ Para el publico objetivo se define como los posibles compradores del servicio y 
 
 Se utiliza plantilla como referencia en https://miro.com/es/plantillas/publico-objetivo/
 
-![Publico Objetivo]()
+![Publico Objetivo](./images/Target%20Audience.jpg)
 
 ## **3. Primer Wireframe**
 
